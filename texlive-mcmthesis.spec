@@ -1,6 +1,6 @@
 Name:		texlive-mcmthesis
 Version:	57333
-Release:	1
+Release:	2
 Summary:	Template designed for MCM/ICM
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mcmthesis
