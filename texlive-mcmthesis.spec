@@ -1,5 +1,5 @@
 Name:		texlive-mcmthesis
-Version:	69509
+Version:	69538
 Release:	1
 Summary:	Template designed for MCM/ICM
 Group:		Publishing
