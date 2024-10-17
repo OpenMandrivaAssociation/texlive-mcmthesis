@@ -3,7 +3,7 @@ Version:	69538
 Release:	1
 Summary:	Template designed for MCM/ICM
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mcmthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mcmthesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mcmthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mcmthesis.doc.r%{version}.tar.xz
